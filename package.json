@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-runner-test",
+  "version": "1.0.0",
+  "description": "Why wont mongodb-runner work with travis?",
+  "main": "index.js",
+  "scripts": {
+    "test": "mongodb-runner start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acinader/mongodb-runner-test.git"
+  },
+  "author": "Arthur Cinader <acinader@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acinader/mongodb-runner-test/issues"
+  },
+  "homepage": "https://github.com/acinader/mongodb-runner-test#readme",
+  "devDependencies": {
+    "mongodb-runner": "^3.4.0"
+  }
+}
