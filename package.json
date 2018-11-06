@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/acinader/mongodb-runner-test#readme",
   "devDependencies": {
-    "mongodb-runner": "^3.4.0"
+    "mongodb-runner": "^4.6.0"
   }
 }
